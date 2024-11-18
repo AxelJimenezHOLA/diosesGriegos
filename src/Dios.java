@@ -1,5 +1,3 @@
-import java.io.Serializable;
-
 /**
  * No confundir con una GOD Class. Esta clase representa a un dios griego, junto con atributos como su nombre
  */
